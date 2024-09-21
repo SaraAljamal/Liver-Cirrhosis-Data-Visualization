@@ -17,10 +17,10 @@ _**Project Workflow**_
 •	Converted categorical variables into factors as needed for visualization.
 
 2.  Static Visualizations:
-3.  
+    
 •	Created static visualizations using ggplot2
 
-4. Interactive Visualizations:
+3. Interactive Visualizations:
    
 •	Developed interactive visualizations using libraries like Plotly and Shiny to allow users to explore the data dynamically.
 
