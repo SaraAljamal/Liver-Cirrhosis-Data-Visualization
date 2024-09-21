@@ -25,6 +25,7 @@ _**Project Workflow**_
 •	Developed interactive visualizations using libraries like Plotly and Shiny to allow users to explore the data dynamically.
 
 4.  Results Interpretation:
+   
 •	Analyzed and interpreted the visualizations to provide insights into the factors affecting liver cirrhosis, where the key findings were included in the project’s report
 
 _**Tech Stack**_
